@@ -19,3 +19,4 @@ echo ${ARRAY[@]}
 # restore stdin from filedescriptor 10
 # and close filedescriptor 10
 exec 0<&10 10<&-
+
