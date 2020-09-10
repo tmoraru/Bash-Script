@@ -1,11 +1,7 @@
 #!/bin/bash
-
-#variable "a" equals "ls" command
-a="pwd" 
-
-
-#call variable
+# setting variable "a" to "ls" command
+a="pwd"
+# calling variable "a" with "echo" command
 echo $a
-
-#call variable "a"
-$a
+# call variable "a"
+$a  
