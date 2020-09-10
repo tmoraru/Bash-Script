@@ -11,7 +11,7 @@
 * echo -  is a built-in command in the bash and C shells that writes its arguments to standard output.
 15 ways to use echo  https://www.tecmint.com/echo-command-in-linux/
 <img width="646" alt="Screenshot_1956" src="https://user-images.githubusercontent.com/13994900/92766289-b146c480-f35b-11ea-86fa-8736e0c5e56d.png">
-## How to print a line of text ?
+###  How to print a line of text ?
 
 ```
 #!/bin/bash
