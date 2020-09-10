@@ -4,6 +4,7 @@
 * The shell is the software that interprets and executes the various commands that we type in the terminal.
 * Bash is a particular shell. It stands for Bourne Again Shell. Some other examples of shell are sh(bourne shell), csh(c shell), tcsh(turbo c shell) etc.
 
+
 ### Explaning commands 
 
 * #! - set the env for implimenting the script
