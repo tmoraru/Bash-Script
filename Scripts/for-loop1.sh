@@ -20,6 +20,3 @@ do
   echo "Good buy $i summer"
 done
 
-for i in $(ls); do
-  echo item: $i
-done
