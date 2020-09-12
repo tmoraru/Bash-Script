@@ -13,3 +13,8 @@ echo "This is `uname -s` running on `uname -n` processor."
 echo
 echo "This is the uptime information for you:"
 echo
+
+#date - shows the date
+#date +"%V" - number of the week
+#uname -n - shows the ip
+#$USER - shows the OS
