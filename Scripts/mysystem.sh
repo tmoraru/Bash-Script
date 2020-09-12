@@ -2,17 +2,12 @@
 
 #This script will display information about me and my machine
 
-echo "Hello $USER"
-echo 
-echo "Today's date is `date`, this week `date +"%V" `. "
-echo
-echo "These users are currently connected"
-w | cut -d " " -f 1 - | grep -v USER | sort -u
-echo
-echo "This is `uname -s` running on `uname -n` processor."
-echo
-echo "This is the uptime information for you:"
-echo
+echo -e "Hello $USER \n"   #$ is used to get the content of variable
+echo -e "Today's date is `date`, this week `date +"%V" `. \n"
+echo -e "These users are currently connected \n"
+w | cut -d " " -f 1 - | grep -v USER | sort -u  #w - showed who is loggin on my machine
+echo -e "This is `uname -s` running on `uname -n` processor. \n"
+echo -e "This is the uptime information for you: \n"
 
 #date - shows the date
 #date +"%V" - number of the week
