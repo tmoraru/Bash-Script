@@ -5,7 +5,7 @@
 for i in 1 2 3 4 5   #or use {1..5}
 do 
   echo "Welcome $i times"
-done
+done  
 
 
 for i in {6..10}
