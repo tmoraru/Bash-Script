@@ -2,7 +2,7 @@
  
 
 
-packages="httpd curl vim "
+packages="httpd curl vim " 
 
 for items in $packages;
 do 
