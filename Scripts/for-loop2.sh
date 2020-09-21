@@ -3,7 +3,7 @@
 
 
 packages="httpd curl vim " 
-
+ 
 for items in $packages;
 do 
   echo "intalling $items" 
