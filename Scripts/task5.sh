@@ -1,7 +1,7 @@
 #!/bin/bash
  
 #Install listed packages and start one specific package
-
+ 
 packages="httpd curl vim "
 
 for items in $packages;
