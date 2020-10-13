@@ -9,6 +9,6 @@ do
   echo "intalling $items"  
   sleep 2 
   sudo  yum install $items  
-  sleep 3 
+  sleep 3  
  done
 
