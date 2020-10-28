@@ -15,6 +15,8 @@ do
    sudo systemctl status $items
   fi
  done
+ 
+ 
 
  
 
