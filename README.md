@@ -1,7 +1,7 @@
 # Bash
 
 ## What is Bash?      
- 
+   
 <img width="398" alt="Screenshot_1955" src="https://user-images.githubusercontent.com/13994900/92757241-2c57ad00-f353-11ea-994f-a6d9cbe4c799.png">
 
 Bash is the shell, or command language interpreter, for the GNU operating system. The name is an acronym for the ‘Bourne-Again SHell’, a pun on Stephen Bourne, the author of the direct ancestor of the current Unix shell sh, which appeared in the Seventh Edition Bell Labs Research version of Unix.
