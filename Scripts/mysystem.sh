@@ -13,3 +13,4 @@ echo -e "This is the uptime information for you: \n"
 #date +"%V" - number of the week
 #uname -n - shows the ip
 #$USER - shows the OS
+ 
