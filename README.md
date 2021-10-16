@@ -13,3 +13,4 @@ Take a look about more details in Bash https://opensource.com/resources/what-bas
 ## Why do we need Bash Scripting ?
 
  A script might contain just a very simple list of commands — or even just a single command — or it might contain functions, loops, conditional constructs, and all the other hallmarks of imperative programming. Using Bash Script, you can implement and automate shell commands which are repeating again and again. 
+ 
